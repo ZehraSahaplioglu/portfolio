@@ -32,7 +32,7 @@ const Menu = [
         image: Work4,
         title: "Kişisel Web Sitesi",
         category: "ReactJS",
-        githubLink: "https://github.com/ZehraSahaplioglu"
+        githubLink: "https://github.com/ZehraSahaplioglu/portfolio"
       },
       ,
       {

@@ -70,17 +70,17 @@ const Services = () => {
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">Kullanıcı arayüzünü geliştiriyorum.</p>
+                                <p className="services__modal-info">Android Studio ile yapıyorum.</p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">Web sayfası geliştirme üzerine uğraşıyorum.</p>
+                                <p className="services__modal-info">Mobil uygulama olarak bir tablet onarım uygulaması yaptım.</p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">Kişisel web sayfası yapıyorum.</p>
+                                <p className="services__modal-info">Veritabanına bağlı ve uygulama seçenekleri çok.</p>
                             </li>
                         </ul>
 
@@ -107,17 +107,17 @@ const Services = () => {
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">Kullanıcı arayüzünü geliştiriyorum.</p>
+                                <p className="services__modal-info">Web sayfası ve portal yapıyorum.</p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">Web sayfası geliştirme üzerine uğraşıyorum.</p>
+                                <p className="services__modal-info">SqlServer ile bağlantı kuruyorum..</p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">Kişisel web sayfası yapıyorum.</p>
+                                <p className="services__modal-info">Kurumsl ve kişisel web sayfaları yapıyorum.</p>
                             </li>
                         </ul>
 
