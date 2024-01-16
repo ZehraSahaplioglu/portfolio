@@ -1,28 +1,38 @@
-import Image1 from "../../assets/testimonial1.png"
-import Image2 from "../../assets/testimonial2.png"
-import Image3 from "../../assets/testimonial3.png"
+import Image1 from "../../assets/udemy.jpg"
+import Image2 from "../../assets/btk.jpg"
 
 export const Data = [
     {
       id: 1,
       image: Image1,
-      title: "Muharrem Şahiner",
+      title: "Udemy",
       description:
-        "A really good job, all aspects of the project were followed step by step and with good results.",
+        "Asp.Net Core MVC Seertifikası",
+      driveLink: "https://drive.google.com/file/d/1L4lyqtza71NLVnMueeyce7GXp2yXMwPT/view?usp=sharing",
     },
     {
       id: 2,
       image: Image2,
-      title: "Harry Clinton",
+      title: "Btk Akademi",
       description:
-        "A really good job, all aspects of the project were followed step by step and with good results.",
+        "Versiyon Kontrolleri: Git ve Github Sertifikası",
+      driveLink: "https://drive.google.com/file/d/1ihhdV9XXOOHxUvBK8pJFgOv8yBuwysu0/view?usp=sharing",
     },
     {
       id: 3,
-      image: Image3,
-      title: "Nurseda Ekici",
+      image: Image1,
+      title: "Udemy",
       description:
-        "A really good job, all aspects of the project were followed step by step and with good results.",
+        "Sql Server Sertifikası",
+      driveLink: "https://drive.google.com/file/d/1mk4jXCp-jBa--2fc2wGOsVSK12Vtd6NM/view?usp=sharing",
+    },
+    {
+      id: 4,
+      image: Image2,
+      title: "Btk Akademi",
+      description:
+        "Üniversite Öğrencilerine Yönelik Front-End Atölyesi Başarı Sertifikası",
+      driveLink: "https://drive.google.com/file/d/1y11ddTgHXrM5Mr9H_Hov4jzjk7VZUQii/view?usp=sharing",
     },
   ];
   
