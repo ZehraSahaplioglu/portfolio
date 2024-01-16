@@ -1,15 +1,5 @@
 # Kişisel Web Site
 
-Bu projede Boxicons ve Unicons kütüphanelerini kullandım.
-
-<!--   BOXICONS    -->
-
-<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-
-<!--   UNICONS    -->
-
-<link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
-
 ### *Giriş (Home) kısmı:*
 ![site1](https://github.com/ZehraSahaplioglu/portfolio/assets/99864727/5ba16377-2e85-446f-b82e-743b3362b1b9)
 
