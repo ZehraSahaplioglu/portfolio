@@ -1,6 +1,6 @@
 # Kişisel Web Site
 
-#Giriş (Home) kısmı:
+## Giriş (Home) kısmı:
 ![site1](https://github.com/ZehraSahaplioglu/portfolio/assets/99864727/5ba16377-2e85-446f-b82e-743b3362b1b9)
 
 # Hakkımda (About) kısmı:
