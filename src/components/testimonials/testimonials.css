@@ -1,5 +1,5 @@
 .testimonial__container {
-    width: 750px;
+    width: 900px;
 }
 
 .testimonial__card {
@@ -33,6 +33,23 @@
 
 .swiper-pagination-bullet-active {
     background-color: var(--title-color) !important;
+}
+
+.work__button {
+    color: var(--title-color);
+    font-size: var(--small-font-size);
+    display: flex;
+    align-items: center;
+    column-gap: 0.5rem;
+}
+
+.work__button-icon {
+    font-size: 1rem;
+    transition: 0.4s;
+}
+
+.work__button:hover .work__button-icon {
+    transform:  translateX(0.25rem);
 }
 
 /* Breakpoints */
