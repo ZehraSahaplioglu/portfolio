@@ -13,7 +13,7 @@ const Backend = () => {
                     
                     <div>
                         <h3 className="skills__name">PostgreSql</h3>
-                        <span className="skills__level">Başlangıç</span>
+                        <span className="skills__level">Orta Düzey</span>
                     </div>
                 </div>
 
@@ -22,7 +22,7 @@ const Backend = () => {
                     
                     <div>
                         <h3 className="skills__name">Sql Server</h3>
-                        <span className="skills__level">Başlangıç</span>
+                        <span className="skills__level">Orta Düzey</span>
                     </div>
                 </div>
 
