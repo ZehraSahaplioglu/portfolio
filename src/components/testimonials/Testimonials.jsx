@@ -14,9 +14,9 @@ import { Pagination } from 'swiper/modules';
 
 const Testimonials = () => {
   return (
-    <section className="testimonial container section">
-        <h2 className="section__title">Referanslar</h2>
-        <span className="section__subtitle">Benim Hakkımdaki Düşünceleri</span>
+    <section className="testimonial container section" id='testimonials'>
+        <h2 className="section__title">Sertifikalarım</h2>
+        <span className="section__subtitle">Kendimi Geliştirmek İçin Neler Yaptım?</span>
 
         <Swiper className="testimonial__container"
         loop={true}
@@ -36,13 +36,16 @@ const Testimonials = () => {
         }}
         modules={[Pagination]}
         >
-            {Data.map(({id, image, title, description}) => {
+            {Data.map(({id, image, title, description, driveLink}) => {
                 return(
                     <SwiperSlide className="testimonial__card" key={id}>
                         <img src={image} alt="" className='testimonial__img' />
 
                         <h3 className="testimonial__name">{title}</h3>
                         <p className="testimonial__description">{description}</p>
+                        <a href={driveLink} target="_blank" rel="noopener noreferrer" className="work__button">
+                          <span>Görüntülemek İçin: <i className='bx bx-link work__button-icon'></i></span>
+                        </a>
                     </SwiperSlide>
                 )
             })}
