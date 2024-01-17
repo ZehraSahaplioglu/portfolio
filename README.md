@@ -6,7 +6,7 @@ Kısa bir giriş yapıp sosyal medya linkleri verip animasyonlu resim ekledim.
 
 ### *Hakkımda (About) kısmı:*
 Deneyim, tamamlanan proje sayısı, akademik ortalama bilgisi ve cv mevcut.
-![site2](https://github.com/ZehraSahaplioglu/portfolio/assets/99864727/d10e604e-92d5-4162-8b50-437deb494dc8)
+![site2](https://github.com/ZehraSahaplioglu/portfolio/assets/99864727/9b7434b9-e648-4b95-bba0-b0dc87e24905)
 
 ### *Eğitim/Deneyim (Education/Experience) kısmı:*
 Default olarak Eğitim seçili tarihsel olarak eğitim ve deneyim bilgisi verildi.
